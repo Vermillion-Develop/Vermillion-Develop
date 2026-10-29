@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привет! Я Дмитрий 👋
 
-<!--
-**Vermillion-Develop/Vermillion-Develop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-разработчик с коммерческим мышлением, опытом проектирования сложных баз данных и глубоким интересом к системной архитектуре.
 
-Here are some ideas to get you started:
+## 🛠 Мой стек и навыки
+* **Languages:** C# (.NET Core), Java (изучаю Spring Boot, JavaFX, JDBI)
+* **Databases:** PostgreSQL (глубокое понимание связей, индексов, оптимизации запросов)
+* **ORM / Data Access:** Entity Framework Core, LINQ
+* **UI/Desktop:** Avalonia UI (AXAML), JavaFx (FXML)
+* **Tools:** Git, Maven, pgAdmin, dBeaver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Open Source Contribution
+* **[pgAdmin 4](https://github.com/pgadmin-org/pgadmin4/issues/10438):** Активный участник комьюнити. Спроектировал и предложил архитектуру для системы локализации технической документации. Взаимодействовал напрямую с core-разработчиками проекта для интеграции изменений.
+
+## 📈 Основной проект
+* **[Kinoteatr]** — Крупное десктопное приложение на C# / Avalonia UI. Спроектировал реляционную структуру БД из 25 таблиц в PostgreSQL, настроил миграции и бизнес-логику. Сейчас переношу ключевые модули на Java + Spring Boot.
+
+📬 **Telegram:** [@VermillionQT] (https://t.me/VermillionQT)
